@@ -3,7 +3,8 @@
 ## What is VenusTouch?
 ![Alt text](https://github.com/leetaeju/VenusTouch/blob/master/Resources/vertex_control.gif?raw=true)  
 VenusTouch is 3D modeling, printing integrated application with Leap Motion and VR interface.  
-End user can modeling and printing easy without any pre-knowledge about 3D modeling and printing.
+End user can modeling and printing easy without any pre-knowledge about 3D modeling and printing.  
+Like Venus gave life to Pygmalion's statue with her touch, our goal is users get their creation via 3D printer.
 
 How to install?
 -----------
